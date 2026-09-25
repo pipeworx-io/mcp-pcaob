@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-pcaob",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "PCAOB — Form AP auditor<->issuer engagements + firm inspection reports.",
   "type": "module",
   "main": "src/index.ts",
@@ -24,5 +24,9 @@
   "devDependencies": {
     "typescript": "^5.9.3",
     "@cloudflare/workers-types": "^4.20260405.1"
+  },
+  "pipeworx": {
+    "sourceHash": "v1-ae869fc022c93908f6988abf3267c9a29997130d90c4c435fecd20a799bb2bd7",
+    "sourceCommit": "00c836ddeaecbdd581dcfb0fb1842efea104006e"
   }
 }
