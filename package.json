@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-pcaob",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "PCAOB — Form AP auditor<->issuer engagements + firm inspection reports. Fleet #624: 'who audits Company X and which engagement partner signed', 'every issuer audited by Firm Y', 'has PCAOB found deficiencies at Firm Y' have no surface today.",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "pcaob",
     "gatewaySlug": "pcaob",
-    "sourceHash": "v1-52133ae317a673142e31995efcc25fc9adf9cb5702e4519c07844f4a3325dc73",
-    "sourceCommit": "6bae4cfa7b6a73bbe014dc8820a19c80c842b21e"
+    "sourceHash": "v1-0a38cb12cb871752a70e01e9df6781495791641829f55b4e8ff6c97f62a7dd79",
+    "sourceCommit": "243a06a6ca2d3b6075325f3b66a1468d0a2eb603"
   }
 }
